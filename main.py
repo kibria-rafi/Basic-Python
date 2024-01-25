@@ -14,5 +14,3 @@ print(len(list))
 if "Habib" in list:
     print("Yes. Habib is present this list")
 
-for x in list:
-    print(x)
